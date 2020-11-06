@@ -1,0 +1,49 @@
+#objetivogeneral{
+	padding-top: 20px;
+	margin-right: 160px !important;
+	margin-left: 16px;
+}
+
+#objetivoespecifico{
+	padding-top: 20px;
+}
+.centrar{
+    text-align: center !important;
+}
+
+.fondocopyright{
+	background:  #005883 !important;
+	color: white !important;
+}
+.fondo{
+	background:  #005883 !important;
+	color: white !important;
+}
+
+#navbarDropdown:hover{
+	background: #F0B429 !important;
+}
+
+#dropdownmenu{
+	background: #F0B429 !important;
+}
+#dropdown-menu{
+	background: #005883 !important;
+}
+.dropdown-item:hover{
+    background: #005883 !important; 
+}
+
+
+.navbar-text{
+	color: white !important;
+}
+
+.navbar{
+	background: #005883 !important;
+}
+
+
+#twitter{
+	text-align: -webkit-center;
+}
